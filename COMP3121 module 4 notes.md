@@ -1,7 +1,3 @@
-Here are **well-structured summary notes** based on the COMP3121 Module 4 material on **Flow Networks**, broken into major topics for clarity and revision:
-
----
-
 ## **1. Flow Networks**
 
 * **Definition:** A directed graph $G = (V, E)$ with:
