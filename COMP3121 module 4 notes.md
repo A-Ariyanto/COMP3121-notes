@@ -133,14 +133,3 @@
 * Drop 4 indistinguishable pills (2 A, 2 B).
 * Split each pill in half. Eat **half of each pill** each day.
 * This guarantees one A and one B per day over 2 days.
-
----
-
-Let me know if you'd like:
-
-* Flashcards
-* Quiz questions
-* Visual cheat sheets
-* Latex/PDF version
-
-Or help with any of the applications/problems.
