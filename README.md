@@ -1,0 +1,1 @@
+These are my personal notes. To utilise these notes, it better to watch the COMP3121 Term 2 2025 lectures. I simplified my notes in a way where you can follow my notes while watching  the lectures. A  very good resource for revision
