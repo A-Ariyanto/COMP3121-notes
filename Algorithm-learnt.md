@@ -1,5 +1,3 @@
-Alright — here’s your **COMP3121 Algorithm Cheat Sheet**
-(I’ve kept each entry short enough for fast revision, but still with the core idea you’ll need in the exam).
 
 ---
 
